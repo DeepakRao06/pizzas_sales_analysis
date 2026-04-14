@@ -44,7 +44,7 @@ The dataset contains:
 ## 📸 SQL Query Results
 
 ### 🔹 Total Revenue
-![Revenue](images/Total_Revnue.png)
+![Revenue](images/Total_Revenue.png)
 
 ### 🔹 Top Selling Pizzas
 ![Top Pizzas](images/Top_pizzas.png)
@@ -53,10 +53,10 @@ The dataset contains:
 ![Category](images/Category_wise_pizza_sales.png)
 
 ### 4. Top 3 orderd pizzas based on revenue each category
-![Top 3]()(images/Top_3ordered_by_revenue_category.png)
+![Top 3](images/Top_3ordered_by_revenue_category.png)
 
 ### 5. Cumaltive sum
-![Cumative sum]()(images/cumaltive_sum.png)
+![Cumative sum](images/cumaltive_sum.png)
 
 ---
 
