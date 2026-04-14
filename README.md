@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🍕 Pizza Sales Analysis Project
 
 ## 📌 Project Overview
@@ -94,6 +93,3 @@ pizza-sales-analysis/
 ## 👨‍💻 Author
 Deepak Rao  
 (Data Analyst)
-=======
-# Pizza-sales--sql-analysis
->>>>>>> 3676991ccd47070729ec6a25be8898f6768a5403
